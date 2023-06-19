@@ -14,4 +14,5 @@ Asegúrate de tener instalado Node.js en tu máquina.
 
 ```bash
 yarn install
-yarn dev
+```
+
